@@ -1,0 +1,9 @@
+# requirements.txt
+
+numpy
+pandas
+scipy
+matplotlib
+cartopy
+pyart
+ffmpeg
